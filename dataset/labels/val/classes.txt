@@ -1,0 +1,5 @@
+saglam_ped
+renk_degisimi
+leke
+yapi_bozulmasi
+kesim_hatasi

@@ -1,0 +1,11 @@
+names:
+- saglam_ped
+- renk_degisimi
+- leke
+- yapi_bozulmasi
+- kesim_hatasi
+nc: 5
+path: c:\Users\EREN\Desktop\HACKATHON\dataset
+test: images/test
+train: images/train
+val: images/val
